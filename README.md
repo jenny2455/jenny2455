@@ -3,9 +3,9 @@ My background is in Chemical Engineering. I joined the coding community 7 months
 I’m currently learning web development following The Odin Project, and just started learning Ruby. 
 
 
-[![Jenny's github stats](https://github-readme-stats.vercel.app/api?username=jenny2455&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jenny2455/github-readme-stats)
+<!-- [![Jenny's github stats](https://github-readme-stats.vercel.app/api?username=jenny2455&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jenny2455/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenny2455)](https://github.com/jenny2455/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenny2455)](https://github.com/jenny2455/github-readme-stats) -->
 
 <!---
 jenny2455/jenny2455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
